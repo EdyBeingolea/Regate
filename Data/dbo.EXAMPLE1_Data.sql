@@ -1,0 +1,8 @@
+SET IDENTITY_INSERT [dbo].[EXAMPLE1] ON
+INSERT INTO [dbo].[EXAMPLE1] ([CODEMP], [NOMEMP], [APEEMP], [DNIEMP], [EMAEMP], [CELEMP]) VALUES (1, N'juan', N'Porras Ortega', N'99564865', N'juan@gmail.com', N'928794535')
+INSERT INTO [dbo].[EXAMPLE1] ([CODEMP], [NOMEMP], [APEEMP], [DNIEMP], [EMAEMP], [CELEMP]) VALUES (2, N'Pedro', N'Porras Luyo', N'12345678', N'pedro@gmail.com', N'978506127')
+INSERT INTO [dbo].[EXAMPLE1] ([CODEMP], [NOMEMP], [APEEMP], [DNIEMP], [EMAEMP], [CELEMP]) VALUES (3, N'Julian', N'Talla Sandoval', N'12445678', N'julian@gmail.com', N'990456124')
+INSERT INTO [dbo].[EXAMPLE1] ([CODEMP], [NOMEMP], [APEEMP], [DNIEMP], [EMAEMP], [CELEMP]) VALUES (4, N'Maximo', N'Ramirez Damian', N'19346678', N'max@gmail.com', N'978456150')
+INSERT INTO [dbo].[EXAMPLE1] ([CODEMP], [NOMEMP], [APEEMP], [DNIEMP], [EMAEMP], [CELEMP]) VALUES (5, N'Luis', N'Juscamayta Torres', N'12245678', N'Luis@gmail.com', N'978470120')
+INSERT INTO [dbo].[EXAMPLE1] ([CODEMP], [NOMEMP], [APEEMP], [DNIEMP], [EMAEMP], [CELEMP]) VALUES (6, N'Raquel', N'Huaman Arias', N'12345778', N'raquel@gmail.com', N'922456122')
+SET IDENTITY_INSERT [dbo].[EXAMPLE1] OFF
